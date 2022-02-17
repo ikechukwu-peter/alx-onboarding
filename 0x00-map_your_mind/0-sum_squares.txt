@@ -1,0 +1,37 @@
+
+function sumOfSquare(){
+    argument = INPUT("Enter number")
+    Square the argument by multiplying it against itself
+    then store the value in a variable.
+
+    Convert the square of argument into a string and then into an array
+
+    Create a variable for holding the sum
+
+    Loop through the array gotten from the conversion
+
+    at every index of the array add the value to the one in the variable for  holding sum
+
+    return the sum variable
+
+}
+
+
+   argument = INPUT("Enter number")
+
+   square = argument * argument
+
+   array = square to string then split
+
+   sum = 0
+
+   for counter = 0; counter < array length; counter increases by one
+
+   sum =  sum + array at index of counter
+
+   print sum
+
+
+
+   
+
